@@ -1,0 +1,6 @@
+1. Intended platform for final project (e.g. Android, iOS): Android
+2. Intended framework/programming language for your final project (e.g. Kotlin, Swift): Kotlin
+3. Whether you want to explore cross-platform development: Yes, maybe
+4. Include a brief explanation for your selections: 
+   I will be starting a course on Flutter online to learn and create a Flutter app, but if the final project becomes too difficult to create using Flutter, I will switch to simple Android App Development using Kotlin language.
+   I have chosen Android as my primary platform for the final project as I have a Windows laptop and an Android phone.
